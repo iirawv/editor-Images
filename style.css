@@ -63,7 +63,7 @@ cursor: pointer;
         gap: 50px;
         display: block;
         width: 100%;
-        max-width: 40vw;
+        max-width: 80vw;
         max-height: 300vh;
     }
     .img img,canvas {
